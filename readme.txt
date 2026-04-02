@@ -1,2 +1,2 @@
-Hello, Git!
-Learning Git is fun!
+Hello from main!
+Hello from hotfix!
